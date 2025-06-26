@@ -2,5 +2,10 @@
   "ABC-123": {
     "deviceId": "112e03b1-db19-4c14-af7b-b71ab12fba82",
     "expiredate": "2025-06-30 16:32:00"
+  },
+  
+  "Ind-2025": {
+    "deviceId": "385931d7-d942-4b3d-97a8-537b04a084c2",
+    "expiredate": "2025-06-30 16:32:00"
   }
 }
